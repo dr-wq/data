@@ -12,5 +12,5 @@
     {"ProductName":"Boss Mustang","GraphicName":"Boss.png","QtyOnHand":"6","QtyOnBackOrder":"5","Costprice":"12000","MRSP":"27500","ITEM":"Fuel economy ,red","Brand":"Ford"},
     {"ProductName":"Shelby GT 500","GraphicName":"Gt 500.png","QtyOnHand":"7","QtyOnBackOrder":"3","Costprice":"11000","MRSP":"32500","ITEM":"Fuel economy ,red","Brand":"Ford"},
     {"ProductName":"Focus","GraphicName":"Focus.png","QtyOnHand":"10","QtyOnBackOrder":"5","Costprice":"10000","MRSP":"25500","ITEM":"Fuel economy ,red","Brand":"Ford"},
-    {"ProductName":"Thunderbird","GraphicName":"Thunderbird","QtyOnHand":"9","QtyOnBackOrder":"4","Costprice":"19000","MRSP":"23500","ITEM":"Fuel economy ,red","Brand":"Ford"}
+    {"ProductName":"Thunderbird","GraphicName":"Thunderbird.png","QtyOnHand":"9","QtyOnBackOrder":"4","Costprice":"19000","MRSP":"23500","ITEM":"Fuel economy ,red","Brand":"Ford"}
 ]
