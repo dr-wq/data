@@ -1,7 +1,7 @@
 [{"ProductName":"corolla forum","GraphicName":"corolla.png","QtyOnHand":"10","QtyOnBackOrder":"2","Costprice":"5000","MRSP":"7500","ITEM":"used car for 2 years ,works very good,certified","Brand":"Toyota"},
     {"ProductName":"4Runner","GraphicName":"4Runner.png","QtyOnHand":"3","QtyOnBackOrder":"4","Costprice":"7000","MRSP":"12600","ITEM":"new car ,works very good","Brand":"Toyota"},
     {"ProductName":"Supra Turbo","GraphicName":"Soarer.png","QtyOnHand":"4","QtyOnBackOrder":"3","Costprice":"10000","MRSP":"15000","ITEM":"new car ,works very good,certified","Brand":"Toyota"},
-    {"ProductName":"2000GT.","GraphicName":"2000GT..png","QtyOnHand":"1","QtyOnBackOrder":"0","Costprice":"3000","MRSP":"5500","ITEM":"used car for 6 years ,works very good,certified","Brand":"Toyota"},
+    {"ProductName":"2000GT.","GraphicName":"2000GT.png","QtyOnHand":"1","QtyOnBackOrder":"0","Costprice":"3000","MRSP":"5500","ITEM":"used car for 6 years ,works very good,certified","Brand":"Toyota"},
     {"ProductName":"GT-One","GraphicName":"GT-One.png","QtyOnHand":"4","QtyOnBackOrder":"2","Costprice":"10000","MRSP":"15500","ITEM":"new sports car ,works very good,certified","Brand":"Toyota"},
     {"ProductName":"Accord Coupe","GraphicName":"Accord.png","QtyOnHand":"1","QtyOnBackOrder":"0","Costprice":"2000","MRSP":"3500","ITEM":"Fuel economy Speed Manual,red","Brand":"Honda"},
     {"ProductName":"honda_crv_hybrid_03","GraphicName":"honda_crv_hybrid_03.png","QtyOnHand":"4","QtyOnBackOrder":"1","Costprice":"12000","MRSP":"23500","ITEM":"Fuel economy ,white","Brand":"Honda"},
